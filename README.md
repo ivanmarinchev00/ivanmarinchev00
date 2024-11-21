@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ivanmarinchev00
-- 👀 I am very interested in frontend development and especially JavaScript. I am currently a software engineer intern at Shepherd. 
-- 🌱 I’m learning TypeScript, and improving my skills in React Js. and Vanilla JavaScript. 
+- 👀 I am very interested in frontend development and especially JavaScript. 
+- 🌱 I’m improving my skills in React Js., TypeScript and Vanilla JavaScript. 
 - 📫 How to reach me: ivanmarinchev00@gmail.com 
