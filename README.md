@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ivanmarinchev00
-- 👀 I am very interested in frontend development and especially JavaScript. 
-- 🌱 I’m improving my skills in React Js., TypeScript and Vanilla JavaScript. 
+- 👀 I am very interested in frontend development and especially JavaScript,TypeScript, and React Js. 
+- 🌱 I’m improving my skills in data structures and algorithms.
 - 📫 How to reach me: ivanmarinchev00@gmail.com 
